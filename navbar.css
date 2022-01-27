@@ -1,0 +1,40 @@
+.topbar
+{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    color: cornsilk;
+    
+}
+.nav
+{
+    display:flex;
+}
+.Home
+{
+    padding-right: 25px;
+}
+.nav-title
+{
+    padding-right:1250px;
+    color: white;
+}
+.MyProf
+{
+    padding-right: 25px;
+    color: blanchedalmond;
+}
+.FC
+{
+    padding-right: 25px;
+    color: cornsilk;
+}
+.SignOut
+{
+    padding-right: 25px;
+}
+
+.nav
+{
+    background-color: black;
+}
